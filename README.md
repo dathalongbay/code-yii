@@ -6,6 +6,11 @@ code-yii
 ### https://riptutorial.com/yii2
 ### https://github.com/samdark/yii2-shop
 ### https://www.javatpoint.com/yii-read-record
+### https://www.youtube.com/watch?v=whuIf33v2Ug
+https://www.youtube.com/watch?v=sRJ6GYiCwkI    
+https://www.youtube.com/watch?v=XyHHMvRt6Cw    
+https://www.youtube.com/watch?v=eQdDBhQpU9o    
+
 
 
 

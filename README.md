@@ -5,5 +5,7 @@ code-yii
 ### https://riptutorial.com/php
 ### https://riptutorial.com/yii2
 ### https://github.com/samdark/yii2-shop
+### https://www.javatpoint.com/yii-read-record
+
 
 
